@@ -1,0 +1,43 @@
+[
+    {
+      "id": "1",
+      "img": "https://i.ibb.co/F8s3L7v/GA-2100-1-A1-Seq01.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ut velit quis quam dapibus eleifend.",
+      "price": 19.99,
+      "watch_name": "Casio G-Shock GA2100-1A1",
+      "brand": "Casio"
+    },
+    {
+      "id": "2",
+      "img": "https://i.ibb.co/tBmBZfp/GA-2100-1-A1-Seq03.jpg",
+      "description": "Nulla eget odio nec mauris rutrum convallis. Suspendisse nec posuere ante, vitae eleifend nisi.",
+      "price": 29.99,
+      "watch_name": "Casio Edifice EQB800DB-1A",
+      "brand": "Casio"
+    },
+    {
+      "id": "3",
+      "img": "https://i.ibb.co/xGtbZH4/istockphoto-944837866-612x612.webp",
+      "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+      "price": 14.99,
+      "watch_name": "Casio Pro Trek PRW-60",
+      "brand": "Casio"
+    },
+    {
+      "id": "4",
+      "img": "https://i.ibb.co/xGtbZH4/istockphoto-944837866-612x612.webp",
+      "description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Mauris condimentum ipsum non lacinia ultricies.",
+      "price": 24.99,
+      "watch_name": "Casio Oceanus OCW-S100-1AJF",
+      "brand": "Casio"
+    },
+    {
+      "id": "5",
+      "img": "https://i.ibb.co/xGtbZH4/istockphoto-944837866-612x612.webp",
+      "description": "Sed ullamcorper libero vel mauris fermentum, sit amet congue odio ultricies.",
+      "price": 39.99,
+      "watch_name": "Casio Classic Digital F-91W",
+      "brand": "Casio"
+    }
+  ]
+  
